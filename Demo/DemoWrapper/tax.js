@@ -1,0 +1,1 @@
+console.log('pay 100 dollars')
