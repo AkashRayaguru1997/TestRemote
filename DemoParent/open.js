@@ -1,1 +1,2 @@
-console.log("I am in open.js")
+console.log("I am in open")
+console.log("I am in sample.js")
